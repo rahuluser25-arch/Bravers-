@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bravers</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_shop">Shop</string>
+    <string name="nav_bag">Bag</string>
+    <string name="nav_saved">Saved</string>
+    <string name="nav_web">Live Site</string>
+    <string name="brand_tagline">WEAR YOUR COURAGE</string>
+    <string name="brand_domain">bravers.in</string>
+    <string name="promo_banner_code">OFF20</string>
+    <string name="promo_banner_text">Use code OFF20 for 20% OFF on orders above ₹499</string>
+</resources>

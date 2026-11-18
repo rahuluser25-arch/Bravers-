@@ -1,0 +1,6 @@
+{
+  "name": "Bravers",
+  "description": "Official Bravers clothing storefront and web experience — oversized tees, drop-shoulder streetwear, kurtis, and everyday essentials from bravers.in.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
